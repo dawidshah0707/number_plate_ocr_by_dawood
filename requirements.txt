@@ -1,0 +1,8 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+pytesseract
+flask
+pandas
+pillow
